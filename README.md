@@ -16,6 +16,7 @@ Let's connect and explore the exciting possibilities that data can unlock!</p><p
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tonizimmerman&show_icons=true&include_all_commits=true)](https://github.com/tonizimmerman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonizimmerman&layout=compact)](https://github.com/tonizimmerman/github-readme-stats)
 
+
 <!--
 **toni-zimmerman/toni-zimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
