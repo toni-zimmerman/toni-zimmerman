@@ -1,4 +1,3 @@
-## Hello, this is Toni Zimmerman👋
 ## Hey 👋, This is Toni Zimmerman
 [![Gmail Badge](https://img.shields.io/badge/-tonizimmerman92@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tonizimmerman92@gmail.com)](mailto:tonizimmerman92@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/tonizimmerman-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin.com/in/tonizimmerman/)](https://www.linkedin.com/in/linkedin.com/in/tonizimmerman/) [![Github Badge](https://img.shields.io/badge/-tonizimmerman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/toni-zimmerman/)](https://www.github.com/toni-zimmerman/) <p align='left'>Hi, I'm Toni! A budding data analyst, eager to dive deep into the world of data and uncover hidden insights.
@@ -18,27 +17,12 @@ Let's connect and explore the exciting possibilities that data can unlock!</p><p
 
 Some facts about me: 
 
-I'm currently learning about planning within a CPG organization.
+-👩‍💻I'm currently learning about planning within a CPG organization.
 
-I love history and am currently studying American wars.
+-🌎I love history and am currently studying American wars.
 
-Cooking is active meditation.
+-🥘Cooking is active meditation.
 
-Karaoke at home is better than in public.
+-🎙Karaoke at home is better than in public.
 
-My goal for 2025 is to learn another language.
-
-<!--
-**toni-zimmerman/toni-zimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🗣 My goal for 2025 is to learn another language.
