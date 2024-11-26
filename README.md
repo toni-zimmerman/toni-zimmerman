@@ -19,9 +19,13 @@ Let's connect and explore the exciting possibilities that data can unlock!</p><p
 Some facts about me: 
 
 I'm currently learning about planning within a CPG organization.
+
 I love history and am currently studying American wars.
+
 Cooking is active meditation.
+
 Karaoke at home is better than in public.
+
 My goal for 2025 is to learn another language.
 
 <!--
