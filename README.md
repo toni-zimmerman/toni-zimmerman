@@ -8,12 +8,7 @@ My current focus is on expanding my knowledge in market research, category manag
 
 Once I start something, I'm committed to seeing it through. I'm a quick learner, always eager to tackle new challenges and grow my skillset.
 
-Let's connect and explore the exciting possibilities that data can unlock!</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1GLhEm8bEskwEMunqp-0UfTiO83J3642dmbUGnkVzDj4/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=tonizimmerman alt=tonizimmerman /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=toni-zimmerman&show_icons=true&include_all_commits=true)](https://github.com/toni-zimmerman/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toni-zimmerman&layout=compact)](https://github.com/toni-zimmerman/github-readme-stats)
+Let's connect and explore the exciting possibilities that data can unlock!
 
 Some facts about me: 
 
@@ -26,3 +21,11 @@ Some facts about me:
 -🎙Karaoke at home is better than in public.
 
 -🗣 My goal for 2025 is to learn another language.
+
+</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1GLhEm8bEskwEMunqp-0UfTiO83J3642dmbUGnkVzDj4/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=tonizimmerman alt=tonizimmerman /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=toni-zimmerman&show_icons=true&include_all_commits=true)](https://github.com/toni-zimmerman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toni-zimmerman&layout=compact)](https://github.com/toni-zimmerman/github-readme-stats)
+
