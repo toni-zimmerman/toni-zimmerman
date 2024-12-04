@@ -23,6 +23,7 @@ Some facts about me:
 -🗣 My goal for 2025 is to learn another language.
 
 </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1GLhEm8bEskwEMunqp-0UfTiO83J3642dmbUGnkVzDj4/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+</p><p align='left'> You can view my cover letter <a href='https://docs.google.com/document/d/1TVBTSKZ7CTo0A-N0fwjZoUFFSxFyKPcFXBQdP31cKSI/edit?tab=t.0 ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tonizimmerman alt=tonizimmerman /> </p>
 
